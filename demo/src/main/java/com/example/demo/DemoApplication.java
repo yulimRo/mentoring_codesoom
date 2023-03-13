@@ -11,8 +11,6 @@ public class DemoApplication {
 		//B
 		//C
 		//D
-		//E
-		//F
 		//G
 		SpringApplication.run(DemoApplication.class, args);
 	}
