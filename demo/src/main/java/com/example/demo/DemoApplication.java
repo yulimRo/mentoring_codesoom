@@ -13,6 +13,7 @@ public class DemoApplication {
 		//D
 		//E
 		//F
+		//G
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
