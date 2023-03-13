@@ -7,11 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
-		//A
-		//B
-		//C
-		//D
-		//G
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
